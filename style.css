@@ -5,6 +5,13 @@ p{
 	color: black;
   font-weight: bold;
 }
+
+ph2{
+  font-family:  "Candara";
+	font-size: 1.6rem;
+	color: black;
+  font-weight: bold;
+}
 #link {
   /*color:  #74725F;
   */
